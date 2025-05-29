@@ -16,11 +16,11 @@ Flipper Zero is a multi-tool for hackers and tinkerers. This repo documents expe
 
 | Folder                | Description                                      |
 |------------------------|--------------------------------------------------|
-| `rf-projects/`         | AM/FM experiments, PA system replay, IR clones  |
-| `badusb-scripts/`      | Keystroke injection fun (pranks, popups, demos) |
-| `nfc-rfid/`            | NFC tag testing, RFID emulation, badge labs     |
-| `bluetooth-experiments/` | BT device scanning and pairing tricks        |
-| `scripts-and-utils/`   | Conversion tools, helpers, signal editors       |
+| `rf-projects/`         | RF fuzzing, signal replay, IR remotes           |
+| `badusb-scripts/`      | Keystroke injection pranks and payload demos    |
+| `nfc-rfid/`            | Tag rewriting, RFID emulation, badge research   |
+| `bluetooth-experiments/` | BT scanning and pairing tricks                |
+| `scripts-and-utils/`   | Tools for signal editing and file conversion    |
 
 ## ⚠️ Legal + Ethics Disclaimer
 
@@ -30,7 +30,6 @@ You are solely responsible for how you use any content in this repo. Be safe. Be
 
 ## 💡 Current Highlights
 
-- 🔊 **PA System Over RF** – Experimenting with replaying 315MHz/433MHz audio trigger signals
 - 🎹 **USB Keystroke Demos** – Simulate lock screen pranks and clipboard hijacks
 - 🎮 **IR Clone Experiments** – Dumping TV, speaker, and toy remotes
 - 🪪 **RFID Clone Lab** – Learning what’s cloneable (and what isn’t)
@@ -43,4 +42,6 @@ You are solely responsible for how you use any content in this repo. Be safe. Be
 - [ ] Remote control signal chaining (e.g. TV + light)
 
 See [`ideas-roadmap.md`](ideas-roadmap.md) for more.
+
+
 
